@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**FdougDS/FdougDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá! Me chamo Francisco!
+Sou estudante de Gestão de TI e programação front-end
+<div align="center">
+  <a href="https://github.com/FdougDS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FdougDS&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://64.media.tumblr.com/9988dfc9fc04bf4c2b72d598762dd835/44a87034c9f02b6e-be/s400x600/2d1f3c57398337165f8e8104b75ad0c036c4440c.gif">
+</div>
+  
+##
+  
+  <div> 
+    <a href="https://www.linkedin.com/in/francisco-douglas-sousa-358514157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+  </div>
